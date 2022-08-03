@@ -8,7 +8,7 @@ Performing analysis on Kickstarter Campaigns data with Excel
 	  * Pivot table filtered on "Parent Categeory" and "Years"
 	  *"Outcomes Based on Goals" sheet
 	  * 2 chart images![Outcomes_vs_Goals](https://user-images.githubusercontent.com/64270455/182556710-55ba3cdb-fd7a-4de2-8b7f-d32ad2fdf121.png)
-![Theater_outcome_vs_Launch,png](https://user-images.githubusercontent.com/64270455/182556768-905d7631-00ee-4034-9fc3-0366052c7be9.png)
+	  *![Theater_outcome_vs_Launch,png](https://user-images.githubusercontent.com/64270455/182556768-905d7631-00ee-4034-9fc3-0366052c7be9.png)
 
 #### Challenges:
       * Limitation of the data, the number data available on "Theater" and "play" are small to make a generalization of our findings.
