@@ -20,5 +20,6 @@ Performing analysis on Kickstarter Campaigns data with Excel
 #### Conclusion from "Outcomes based on Goal"
     * Plays with "Goals" less than $5000  were very successful (73-76%)
 #### Summary of Limitations and Recommendations
-    *  The Amount of data on the "Theater" and "Plays" is too small to make  a serious generalization, the more the data the better.
+    * The Amount of data on the "Theater" and "Plays" is too small to make  a serious generalization, the more the data the better.
     * I  will recommend analysing the "Theater outcomes" by "Average donations" using a line chart to see how Average donations affect the Theater outcomes, since now we know that huge goals does not translate to successful outcome.It will be interesting  to find out if huge donations would do.
+    * I will recommend getting more data on the "theater" and "plays", this will enhance the level generalization that can be made on the analysis.
